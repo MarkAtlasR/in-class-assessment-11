@@ -8,6 +8,7 @@ html{
   background-color: #e2e2e2;
   color: #bcbcbc;
   font-family: sans-serif;
+  font-size: 18px;
 }
 
 h1{
@@ -28,5 +29,9 @@ h2{
   line-height: 2;
   margin-bottom: 25;
   
+}
+
+.quote{
+  font-style: italic;
 }
 
