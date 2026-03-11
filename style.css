@@ -1,7 +1,22 @@
+
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+
+.winky-rough-<uniquifier> {
+  font-family: "Winky Rough", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.fredericka-the-great-regular {
+  font-family: "Fredericka the Great", serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 html{
@@ -9,6 +24,7 @@ html{
   color: #bcbcbc;
   font-family: sans-serif;
   font-size: 18px;
+  width: 500px;
 }
 
 h1{
@@ -19,13 +35,13 @@ h1{
 }
 
 h2{
-  font-family: 'Fredericka+the+Great';
+  font-family: 'Fredericka the Great';
   color: #7a6554;
   font-size: 25px;
 }
 
 .story{
-  font-family: 'Winky+Rough';
+  font-family: 'Winky Rough';
   line-height: 2;
   margin-bottom: 25;
   
