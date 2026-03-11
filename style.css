@@ -24,14 +24,15 @@ html{
   color: #bcbcbc;
   font-family: sans-serif;
   font-size: 18px;
-  width: 500px;
+  width: 550px;
   text-align: center;
 }
 
 h1{
-  font-family: 'Fredericka+the+Great';
+  font-family: 'Fredericka the Great';
   color: #594b3e;
   font-size: 30px;
+  margin-bottom: 20px;  
   
 }
 
@@ -39,16 +40,17 @@ h2{
   font-family: 'Fredericka the Great';
   color: #7a6554;
   font-size: 25px;
+  margin-bottom: 20px;
 }
 
 .story{
   font-family: 'Winky Rough';
   line-height: 2;
-  margin-bottom: 25;
+  margin-bottom: 25px;
+  text-align: justify;  
   
 }
 
 .quote{
   font-style: italic;
 }
-
