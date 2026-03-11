@@ -26,10 +26,12 @@ html{
   font-size: 18px;
   width: 550px;
   text-align: center;
+  margin-left: 400px;
+  margin-top: 50px;  
 }
 
 h1{
-  font-family: 'Fredericka the Great';
+  font-family: 'Fredericka the Great', serif;
   color: #142314;
   font-size: 30px;
   margin-bottom: 20px;  
@@ -37,18 +39,22 @@ h1{
 }
 
 h2{
-  font-family: 'Fredericka the Great';
+  font-family: 'Fredericka the Great', serif;
   color: #3b5a60;
   font-size: 25px;
   margin-bottom: 20px;
 }
 
 .story{
-  font-family: 'Winky Rough';
+  font-family: 'Winky Rough', serif;
   line-height: 2;
   margin-bottom: 25px;
-  text-align: justify;  
+  text-align: justify;
   
+}
+
+p{
+    margin-bottom: 20px;
 }
 
 .quote{
